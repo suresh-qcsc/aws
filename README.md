@@ -57,12 +57,6 @@ git remote add origin https://github.com/YOUR-USERNAME/lambda-concurrency-graph.
 git branch -M main
 git push -u origin main
 
-## Add a .gitignore File (Optional)
-To avoid uploading unnecessary files, create a .gitignore file:
-
-__pycache__/
-1) *.png 2) *.gif
-
 ## Final Notes
 - If you make changes, always commit and push:
 1) git add . 2) git commit -m "Updated the graph annotations" 3) git push origin main
