@@ -44,7 +44,7 @@ The following colors are utilized in the visualization:
 
 ## 📸 Output
 
-![Lambda Concurrency](Lambda_concurrency_graph_v1.gif)
+![Lambda Concurrency](Lambda_concurrency_graph_v2.gif)
 
 ## 💡 Contributing
 Feel free to fork this repository and submit pull requests to improve the script.
