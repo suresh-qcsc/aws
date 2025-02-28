@@ -16,7 +16,6 @@ pip install matplotlib numpy
 ## 🚀 Usage
 Run the script to generate and display the graph:
 
-```sh
 python lambda_concurrency_plot.py
 
 ## 📝 Explanation
@@ -25,6 +24,11 @@ python lambda_concurrency_plot.py
 - Blue Line: Represents concurrent executions.
 - Orange Line: Represents the AWS Lambda’s concurrency limit.
 - Annotations: Explain how Lambda scales up concurrency.
+
+## 📸 Example Output
+
+![Lambda Concurrency](Lambda_concurrency_v1.gif)
+
 
 ## 💡 Contributing
 Feel free to fork this repository and submit pull requests to improve the script.
@@ -35,7 +39,6 @@ This project is licensed under the MIT License.
 ---
 ## Initialize a Git Repository
 Inside the project folder, run:
-```sh
 git init
 git add .
 git commit -m "Initial commit: Lambda Concurrency Graph"
