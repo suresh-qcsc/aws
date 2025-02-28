@@ -30,7 +30,7 @@ python lambda_concurrency_plot.py
 - Incremental Invocations: 
    - Lambda will augment its capacity by adding 500 invocations per minute. This process will continue until Lambda successfully accommodates the influx of requests or reaches the established function or account concurrency limits.
 
-## 🌈 Color Reference
+# 🌈 Color Reference
 
 The following colors are utilized in the visualization:
 
