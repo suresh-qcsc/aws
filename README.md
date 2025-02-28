@@ -4,9 +4,9 @@
 This code illustrates how AWS Lambda manages traffic bursts by depicting the number of requests, concurrency limits, and the scaling of concurrent executions. I would like to know how the application will react to a sudden influx of requests. Notably, all of the account's concurrency may not be available immediately, which can result in requests being throttled for several minutes, even when the overall limit exceeds the incoming surge.
 
 ## 🖥️ Features
-- 📊 Displays the number of requests and concurrent executions over time. 
-- 🔹 Emphasizes AWS Lambda's concurrency scaling with annotations. 
-- 🌑 Utilizes a **dark-themed** visualization for enhanced readability.
+📊 Displays the number of requests and concurrent executions over time. 
+🔹 Emphasizes AWS Lambda's concurrency scaling with annotations. 
+🌑 Utilizes a **dark-themed** visualization for enhanced readability.
 
 ## 📦 Requirements
 Ensure you have Python and the following libraries installed:
@@ -38,6 +38,7 @@ This project is licensed under the MIT License.
 
 ## Initialize a Git Repository
 Inside the project folder, run:
+
 git init
 git add .
 git commit -m "Initial commit: Lambda Concurrency Graph"
