@@ -43,10 +43,10 @@ git add .
 git commit -m "Initial commit: Lambda Concurrency Graph"
 
 ## Push to GitHub
-1. Create a GitHub repository with a relevant name like lambda-concurrency-graph.
-2. Link the remote repository:
+1) Create a GitHub repository with a relevant name like lambda-concurrency-graph.
+2) Link the remote repository:
 git remote add origin https://github.com/YOUR-USERNAME/lambda-concurrency-graph.git
-3. Push the code:
+3) Push the code:
 git branch -M main
 git push -u origin main
 
@@ -54,12 +54,9 @@ git push -u origin main
 To avoid uploading unnecessary files, create a .gitignore file:
 
 __pycache__/
-*.png
-*.gif
+1) *.png 2) *.gif
 
 ## Final Notes
 - If you make changes, always commit and push:
-git add .
-git commit -m "Updated the graph annotations"
-git push origin main
+1) git add . 2) git commit -m "Updated the graph annotations" 3) git push origin main
 
