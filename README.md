@@ -20,10 +20,16 @@ python lambda_concurrency_plot.py
 
 ## 📝 Explanation
 
-- Green Line: Represents the number of requests.
-- Blue Line: Represents concurrent executions.
-- Orange Line: Represents the AWS Lambda’s concurrency limit.
-- Annotations: Explain how Lambda scales up concurrency.
+- Green Line: Indicates the number of requests received.
+- Blue Line: Reflects the number of concurrent executions.
+- Orange Line: Denotes the concurrency limit established for AWS Lambda.
+- Annotations: Clarify the process by which Lambda scales its concurrency.
+- Account Concurrency Limit: 5000
+- Immediate Concurrency Increase: 3000
+   In the event of a sudden surge in requests, AWS Lambda will promptly increase the concurrency level by the predetermined "Immediate Concurrency Increase" amount applicable to the specific region where the Lambda function is deployed.
+- Incremental Invocations: 
+   Lambda will augment its capacity by adding 500 invocations per minute. This process will continue until Lambda successfully accommodates the influx of requests or reaches the established function or account concurrency limits.
+
 
 ## 📸 Output
 
