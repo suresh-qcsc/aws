@@ -26,6 +26,10 @@ python lambda_concurrency_plot.py
 - Orange Line: Represents the AWS Lambda’s concurrency limit.
 - Annotations: Explain how Lambda scales up concurrency.
 
+📸 Example Output
+
+![Lambda Concurrency](https://github.com/suresh-qcsc/aws-lambda-burst-handling/blob/dd8489aeb1f86b7d1b65f40c5ad0ea46610d43ee/Lambda_concurrency_v1.gif)
+
 ## 💡 Contributing
 Feel free to fork this repository and submit pull requests to improve the script.
 
