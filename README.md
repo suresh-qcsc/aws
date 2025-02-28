@@ -27,7 +27,8 @@ python lambda_concurrency_plot.py
 - Annotations: Explain how Lambda scales up concurrency.
 
 ## Example Output
-![Lambda_concurrency_github](https://github.com/user-attachments/assets/5cc12ba8-a89d-4224-b0e9-1f691eb8e2e8)
+
+![Lambda Concurrency](https://raw.githubusercontent.com/suresh-qcsc/aws-lambda-burst-handling/main/Lambda_concurrency_github.gif)
 
 ## 💡 Contributing
 Feel free to fork this repository and submit pull requests to improve the script.
