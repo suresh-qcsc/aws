@@ -44,7 +44,7 @@ The following colors are utilized in the visualization:
 
 ## 📸 Output
 
-![Lambda Concurrency](Lambda_concurrency_v1.gif)
+![Lambda Concurrency](Lambda_concurrency_graph_v1.gif)
 
 ## 💡 Contributing
 Feel free to fork this repository and submit pull requests to improve the script.
@@ -68,8 +68,8 @@ git branch -M main
 git push -u origin main
 
 ## Final Notes
-- If you make changes, always commit and push:
-  
+If you make changes, always commit and push:
+
 - git add .
 - git commit -m "Updated the graph annotations"
 - git push origin main
