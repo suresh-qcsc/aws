@@ -36,7 +36,6 @@ Feel free to fork this repository and submit pull requests to improve the script
 ## 🛠️ License
 This project is licensed under the MIT License.
 
----
 ## Initialize a Git Repository
 Inside the project folder, run:
 git init
@@ -60,7 +59,6 @@ __pycache__/
 
 ## Final Notes
 - If you make changes, always commit and push:
-
 git add .
 git commit -m "Updated the graph annotations"
 git push origin main
