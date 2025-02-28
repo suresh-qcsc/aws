@@ -30,7 +30,6 @@ python lambda_concurrency_plot.py
 
 ![Lambda Concurrency](https://raw.githubusercontent.com/suresh-qcsc/aws-lambda-burst-handling/main/Lambda_concurrency_github.gif)
 
-
 ## 💡 Contributing
 Feel free to fork this repository and submit pull requests to improve the script.
 
