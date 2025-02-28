@@ -40,6 +40,7 @@ The following colors are utilized in the visualization:
 | `#00A4A6` | Dark Teal  |
 | `#C925D1` | Purple     | 
 | `#ED7100` | Orange     |
+| `#000000` | Black     |
 
 ## 📸 Output
 
