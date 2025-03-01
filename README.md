@@ -42,6 +42,14 @@ The following colors are utilized in the visualization:
 | `#ED7100` | Orange     |
 | `#000000` | Black     |
 
+🕘 Clock Values:
+
+| Hand Name  | Degrees per Unit
+|-----------|------------|
+| `Second` | 6° per second      |
+| `Minute` | 6° per minute  |
+| `Hour` | 30° per hour (0.5° per minute)     |
+
 ## 📸 Output
 
 ![Lambda Concurrency](Lambda_concurrency_graph_v3.gif)
