@@ -48,7 +48,7 @@ The following colors are utilized in the visualization:
 |-----------|------------|
 | `Second` | 6° per second      |
 | `Minute` | 6° per minute  |
-| `Hour` | 30° per hour (0.5° per minute)     |
+| `Hour` | 30° per hour     |
 
 ## 📸 Output
 
